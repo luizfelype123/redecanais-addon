@@ -1,0 +1,14 @@
+{
+  "name": "redecanais-addon",
+  "version": "1.0.0",
+  "description": "Addon Stremio RedeCanais",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.6.2"
+  }
+}
